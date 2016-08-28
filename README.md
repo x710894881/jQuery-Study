@@ -1,2 +1,3 @@
 # jQuery-Study
-jQuery study
+
+jQuery 整理笔记
